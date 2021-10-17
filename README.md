@@ -2,7 +2,7 @@
 
 Le but de ce projet est d'obtenir le meilleur partitionnement possible des communautés au sein d'un réseau. 
 
-Nous intéressons à la méthode de **Louvain**.  C'est un algorithme \textbf{glouton} qui consiste à trouver des groupes de nœuds très liés entre eux.  
+Nous intéressons à la méthode de **Louvain**, qui est un algorithme **glouton** qui consiste à trouver des groupes de nœuds très liés entre eux.  
 
 
 
