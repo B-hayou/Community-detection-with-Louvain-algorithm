@@ -4,10 +4,16 @@ Le but de ce projet est de déterminer le meilleur partitionnement possible des 
 
 Nous mettons en œuvre des algorithmes de détection de communauté en utilisant les données de **Facebook**. 
 
-Pour ce faire, nous entraînons la méthode de **Louvain**, qui est un algorithme **glouton** et qui consiste à trouver des groupes de nœuds très liés entre eux par la maximisation de la modularité définie dans le rapport:
 
-* Les données comprenaient les utilisateurs en tant que nœuds et leurs relations entre amis en tant que bords.
-* Test basé sur des graphes aléatoires, afin de comparer la performance de notre méthode. 
+## La mise en œuvre se fait en deux phases : 
+
+### 1. Détection communautaire :
+
+Une fois le processus de collecte de données terminé, nous créons un réseau graphique de nœuds et d'arêtes. Maintenant, pour trouver des communautés dans ce graphique, nous utilisons la méthode de **Louvain**, cela conduit à partitionner le graphe en clusters avec une modularité maximale trouvée. 
+
+### 2. Test sur la performance de la méthode : 
+
+Nous utilisons un test basé sur des graphes aléatoires, afin de comparer la performance de notre méthode et vérifier si cette valeur de modularité est significative ou non. 
 
 
 ## Obtenir le code 
