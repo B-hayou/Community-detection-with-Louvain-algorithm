@@ -22,7 +22,7 @@ La documentation du jeu de données est disponible [ici](https://snap.stanford.e
 
 ### Structure 
 
-L'algorithme principal est implémenté dans le dossier `./LOUVAIN ALGORITHM`  
+L'algorithme principal est implémenté dans le dossier `./LOUVAIN ALGORITHM`. Un notebook Jupyter .ipynb contient le code pour entraîner le modèle et analyser les résultats. 
 
 
 ### Membres
