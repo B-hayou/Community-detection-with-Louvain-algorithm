@@ -35,7 +35,7 @@ La structure de notre projet est la suivante :
 
 * L'algorithme principal est implémenté dans le dossier `./LOUVAIN ALGORITHM`. Un notebook Jupyter .ipynb contient le code pour entraîner le modèle et analyser les résultats. 
 
-* La présentation du rapport est conservée dans le dossier ./rapport. 
+* La présentation du rapport est conservée dans le dossier `./rapport`. 
 
 ## Membres
 
