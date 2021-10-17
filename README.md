@@ -1,8 +1,8 @@
 # Community-detection-with-Louvain-algorithm
 
-Le but de ce projet est d'obtenir le meilleur partitionnement possible des communautés au sein du réseau **Facebook**. 
+Le but de ce projet est la détection des communautés dans les ego-réseaux **Facebook**.  
 
-Pour ce faire, nous entraînons la méthode de **Louvain**, qui est un algorithme **glouton** qui consiste à trouver des groupes de nœuds très liés entre eux par la maximisation de la modularité définie dans le rapport.    
+Pour ce faire, nous entraînons la méthode de **Louvain**, qui est un algorithme **glouton** qui consiste à trouver des groupes de nœuds très liés entre eux par la maximisation de la modularité définie dans le rapport, afin de déterminer le meilleur partitionnement possible des communautés au sein du réseau.  
 
 ## Application
 
@@ -21,8 +21,8 @@ $ git clone https://github.com/B-hayou/Community-detection-with-Louvain-algorith
 $ cd Community-detection-with-Louvain-algorithm
 ```
 ## Documentation
-
-La documentation du jeu de données est disponible [ici](https://snap.stanford.edu/data/ego-Facebook.html?fbclid=IwAR1HI3gBO5eqh7FfR3ZMBTADCMYftpHGoI7MN1kfZFDYwhEBNqvMqOei88c). 
+ 
+La documentation du jeu de données est disponible [ici](https://snap.stanford.edu/data/ego-Facebook.html?fbclid=IwAR1HI3gBO5eqh7FfR3ZMBTADCMYftpHGoI7MN1kfZFDYwhEBNqvMqOei88c) pour le réseau graphique. 
 
 ## Structure 
 
