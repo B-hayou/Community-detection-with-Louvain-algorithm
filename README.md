@@ -39,7 +39,7 @@ La structure de notre projet est la suivante :
 
 ## Membres
 
-- Belgaid Jihène, jihène.belgaid@etu.umontpellier.fr
+- Belgaid Jihène, jihene.belgaid@etu.umontpellier.fr
 - Chaoui Wiam, wiam.chaoui@etu.umontpellier.fr
 - Goujili Nouhaila, nouhaila.goujili@etu.umontpellier.fr
 - Hayou Bouthayna, bouthayna.hayou@etu.umontpellier.fr
