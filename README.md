@@ -20,6 +20,10 @@ $ cd Community-detection-with-Louvain-algorithm
 
 La documentation du jeu de données est disponible [ici](https://snap.stanford.edu/data/ego-Facebook.html?fbclid=IwAR1HI3gBO5eqh7FfR3ZMBTADCMYftpHGoI7MN1kfZFDYwhEBNqvMqOei88c). 
 
+### Structure 
+
+L'algorithme principal est implémenté dans le dossier `./LOUVAIN ALGORITHM`  
+
 
 ### Membres
 
